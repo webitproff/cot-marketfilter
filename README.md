@@ -1,5 +1,5 @@
 # cot-marketfilter
-Плагин фильтра предложений товаров и услуг опубликованных в модуле <strong>Market</strong> на сайте <a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/"><strong>фриланс-биржи</strong></a>, на базе Cotonti Siena.
+Плагин фильтра предложений товаров и услуг опубликованных в модуле <a href="http://freelance-script.abuyfile.com/modules-market/" target="_blank" rel="noopener"><strong>Market</strong></a> на сайте <a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/"><strong>фриланс-биржи</strong></a>, на базе Cotonti Siena.
 
 Лично я на данный момент не проверял, но судя по коду, - фильтр работает по таким опциям как цена и категории товаров и услуг. Скорее всего преимущество плагина "Market Filter" для <a href="https://abuyfile.com/" target="_blank" rel="noopener">фриланс-торговой</a> площадки в том, что работает на Ajax.
 
@@ -16,4 +16,3 @@ Version=0.0.1
 Date=2015-01-15
 Author=Attar
 Copyright=(c) Kolev Andrew, alteraweb.ru, Pluginspro.ru, 2010-2015</blockquote>
-<a href="https://github.com/webitproff/cot-marketfilter" target="_blank" rel="noopener">скачать с github</a>
